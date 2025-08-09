@@ -1,0 +1,19 @@
+# Virtual envs
+venv/
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.so
+
+# macOS files
+.DS_Store
+
+# SQLite DB (do not push unless intentional)
+*.db
+interview_questions.db
+
+# VSCode settings
+.vscode/
+
